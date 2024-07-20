@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>这是文章标题</title>
-    <url>/posts/af625a13.html</url>
-    <content><![CDATA[<p>文章正文</p>
-]]></content>
-  </entry>
-  <entry>
     <title>什么是Nginx？</title>
     <url>/posts/e393a4da.html</url>
     <content><![CDATA[<h2 id="1-Nginx概述"><a href="#1-Nginx概述" class="headerlink" title="1.Nginx概述"></a>1.Nginx概述</h2><h3 id="1-1-Nginx是什么？"><a href="#1-1-Nginx是什么？" class="headerlink" title="1.1.Nginx是什么？"></a>1.1.Nginx是什么？</h3><p>Nginx是一个高性能的http和反向代理服务器，其特点是占用内存小，并发能力强。Nginx专为性能优化而开发，性能是其最重要的考量，能经受高负载的考验，有报告表明能支持高达50000个并发连接数。<br><img src="/posts/e393a4da/image-1.png" alt="image-1.png"><br>Nginx 是开源、高性能、高可靠的 Web 和反向代理服务器，而且支持热部署，几乎可以做到 7 * 24 小时不间断运行，即使运行几个月也不需要重新启动，还能在不间断服务的情况下对软件版本进行热更新。性能是 Nginx 最重要的考量，其占用内存少、并发能力强、能支持高达 5w 个并发连接数，最重要的是，Nginx 是免费的并可以商业化，配置使用也比较简单。<br>Nginx 的最重要的几个使用场景：</p>
@@ -48,17 +42,6 @@
       <tags>
         <tag>nginx</tag>
         <tag>运维</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>高杰的小窝</title>
-    <url>/posts/d0451fc8.html</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>我的</category>
-      </categories>
-      <tags>
-        <tag>我的</tag>
       </tags>
   </entry>
 </search>
